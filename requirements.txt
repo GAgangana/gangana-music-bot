@@ -1,0 +1,7 @@
+discord
+iscord.ext
+commands
+yt_dlp
+re
+os
+asyncio
