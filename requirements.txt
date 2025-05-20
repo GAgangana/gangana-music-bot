@@ -1,7 +1,3 @@
-discord
 discord.py
-commands
 yt_dlp
-re
-os
-asyncio
+python-dotenv
