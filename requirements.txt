@@ -1,5 +1,5 @@
 discord
-iscord.ext
+discord.ext
 commands
 yt_dlp
 re
